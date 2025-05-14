@@ -129,21 +129,3 @@ a:active {
 .col-md-8 {
     padding: 20px;
 }
-
-@media (max-width: 768px) {
-    h1 {
-        font-size: 2rem;
-    }
-
-    h3 {
-        font-size: 1.6rem;
-    }
-
-    p {
-        font-size: 1.2rem;
-    }
-
-    .rounded-image, .profile-img {
-        width: 280px; 
-    }
-}
